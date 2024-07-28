@@ -8,8 +8,6 @@ This repository contains a LaTeX template for my resume. The resume is designed 
 
 - `resume.tex`: The main LaTeX source file for the resume.
 - `resume.pdf`: A compiled PDF version of the resume.
-- `resume.cls`: A custom LaTeX class file used for styling the resume (if applicable).
-- `bibtex.bib`: A BibTeX file for any references or publications (if applicable).
 
 ## Requirements
 
@@ -43,11 +41,11 @@ You can install these packages using your LaTeX distribution's package manager.
    pdflatex resume.tex
    ```
 
-6. The compiled PDF will be available as `resume.pdf`.
+6. The compiled PDF will be available as `Resume.pdf`.
 
 ## Customization
 
-Feel free to customize the `resume.tex` file to better suit your needs. You can modify sections, add or remove content, and adjust formatting as necessary.
+Feel free to customize the `Resume.tex` file to better suit your needs. You can modify sections, add or remove content, and adjust formatting as necessary.
 
 ## Contact
 
