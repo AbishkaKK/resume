@@ -10,7 +10,6 @@ This repository contains a LaTeX template for my resume. The resume is designed 
 - `resume.pdf`: A compiled PDF version of the resume.
 - `resume.cls`: A custom LaTeX class file used for styling the resume (if applicable).
 - `bibtex.bib`: A BibTeX file for any references or publications (if applicable).
-- `images/`: A directory containing any images used in the resume (e.g., logos, profile picture).
 
 ## Requirements
 
@@ -29,7 +28,7 @@ You can install these packages using your LaTeX distribution's package manager.
 
 1. Ensure you have a LaTeX distribution installed (e.g., TeX Live, MiKTeX).
 2. Open a terminal or command prompt.
-3. Navigate to the directory containing `resume.tex`.
+3. Navigate to the directory containing `Resume.tex`.
 4. Run the following command to compile the resume:
 
    ```bash
@@ -52,7 +51,7 @@ Feel free to customize the `resume.tex` file to better suit your needs. You can 
 
 ## Contact
 
-For any questions or feedback, please contact me at [your email address].
+For any questions or feedback, please contact me at [abishkakrishnakumar@gmail.com].
 
 ---
 
