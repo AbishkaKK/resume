@@ -30,15 +30,15 @@ You can install these packages using your LaTeX distribution's package manager.
 4. Run the following command to compile the resume:
 
    ```bash
-   pdflatex resume.tex
+   pdflatex Resume.tex
    ```
 
 5. If you are using BibTeX for references, you may need to run:
 
    ```bash
    bibtex resume
-   pdflatex resume.tex
-   pdflatex resume.tex
+   pdflatex Resume.tex
+   pdflatex Resume.tex
    ```
 
 6. The compiled PDF will be available as `Resume.pdf`.
