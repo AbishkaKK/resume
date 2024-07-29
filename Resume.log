@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2024.7.27)  29 JUL 2024 08:55
+=======
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2024.7.27)  29 JUL 2024 08:49
+>>>>>>> main
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -406,7 +410,11 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <6> on input line 128.
 
+<<<<<<< HEAD
 Overfull \hbox (0.65852pt too wide) in alignment at lines 198--198
+=======
+Overfull \hbox (0.65852pt too wide) in alignment at lines 197--197
+>>>>>>> main
 [] [] 
  []
 
@@ -415,7 +423,7 @@ Overfull \hbox (0.65852pt too wide) in alignment at lines 198--198
 {C:/Users/abish/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}{C:/Program Fi
 les/MiKTeX/fonts/enc/dvips/fontawesome5/fa5brands0.enc}{C:/Program Files/MiKTeX
 /fonts/enc/dvips/fontawesome5/fa5free1.enc}{C:/Program Files/MiKTeX/fonts/enc/d
-vips/fontawesome5/fa5free2.enc}] (Resume.aux)
+vips/fontawesome5/fa5free2.enc}] [2] (Resume.aux)
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-01-04>
@@ -428,13 +436,13 @@ Package rerunfilecheck Info: File `Resume.out' has not changed.
 (rerunfilecheck)             Checksum: 6A3223253F40E83E3E8D5955FF6FCCBF;648.
  ) 
 Here is how much of TeX's memory you used:
- 14249 strings out of 474486
- 243351 string characters out of 5753570
- 1950542 words of memory out of 5000000
+ 14250 strings out of 474486
+ 243357 string characters out of 5753570
+ 1951542 words of memory out of 5000000
  36362 multiletter control sequences out of 15000+600000
  564598 words of font info for 61 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 75i,11n,79p,280b,571s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 75i,11n,79p,280b,642s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Program Files/MiKTeX/fonts/type1/public/fontawesome5/FontAwesome5Brands-R
 egular.pfb><C:/Program Files/MiKTeX/fonts/type1/public/fontawesome5/FontAwesome
 5Free-Solid.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx10.
@@ -443,9 +451,13 @@ ram Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmcsc10.pfb><C:/Program Files/M
 iKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Program Files/MiKTeX/fonts/t
 ype1/public/amsfonts/cm/cmsy6.pfb><C:/Program Files/MiKTeX/fonts/type1/public/a
 msfonts/cm/cmti10.pfb>
+<<<<<<< HEAD
 Output written on Resume.pdf (1 page, 121019 bytes).
+=======
+Output written on Resume.pdf (2 pages, 122576 bytes).
+>>>>>>> main
 PDF statistics:
- 86 PDF objects out of 1000 (max. 8388607)
- 8 named destinations out of 1000 (max. 500000)
+ 90 PDF objects out of 1000 (max. 8388607)
+ 9 named destinations out of 1000 (max. 500000)
  49 words of extra memory for PDF output out of 10000 (max. 10000000)
 
