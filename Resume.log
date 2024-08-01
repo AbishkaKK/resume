@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2024.7.27)  29 JUL 2024 09:51
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2024.7.27)  1 AUG 2024 11:27
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -424,17 +424,23 @@ L3 programming layer <2024-01-04>
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
-Package rerunfilecheck Info: File `Resume.out' has not changed.
-(rerunfilecheck)             Checksum: 6A3223253F40E83E3E8D5955FF6FCCBF;648.
+
+Package rerunfilecheck Warning: File `Resume.out' has changed.
+(rerunfilecheck)                Rerun to get outlines right
+(rerunfilecheck)                or use package `bookmark'.
+
+Package rerunfilecheck Info: Checksums for `Resume.out':
+(rerunfilecheck)             Before: D41D8CD98F00B204E9800998ECF8427E;0
+(rerunfilecheck)             After:  6A3223253F40E83E3E8D5955FF6FCCBF;648.
  ) 
 Here is how much of TeX's memory you used:
- 14249 strings out of 474486
- 243351 string characters out of 5753570
+ 14242 strings out of 474486
+ 243278 string characters out of 5753570
  1950542 words of memory out of 5000000
- 36362 multiletter control sequences out of 15000+600000
+ 36355 multiletter control sequences out of 15000+600000
  564598 words of font info for 61 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 75i,11n,79p,280b,571s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 75i,11n,79p,280b,569s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Program Files/MiKTeX/fonts/type1/public/fontawesome5/FontAwesome5Brands-R
 egular.pfb><C:/Program Files/MiKTeX/fonts/type1/public/fontawesome5/FontAwesome
 5Free-Solid.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx10.
@@ -443,9 +449,9 @@ ram Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmcsc10.pfb><C:/Program Files/M
 iKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Program Files/MiKTeX/fonts/t
 ype1/public/amsfonts/cm/cmsy6.pfb><C:/Program Files/MiKTeX/fonts/type1/public/a
 msfonts/cm/cmti10.pfb>
-Output written on Resume.pdf (1 page, 121241 bytes).
+Output written on Resume.pdf (1 page, 119744 bytes).
 PDF statistics:
- 86 PDF objects out of 1000 (max. 8388607)
+ 67 PDF objects out of 1000 (max. 8388607)
  8 named destinations out of 1000 (max. 500000)
- 49 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
